@@ -68,13 +68,13 @@ The below provides details of the company that were found in [[2]](#2) ([Wikiped
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilized?)
 
     * According to the SAP Community blog, the SAP Cloud is the real differentiator for SAP. [[4]](#4) ([Community, n.d.](https://community.sap.com/t5/technology-blogs-by-sap/sap-saas-applications-what-you-need-to-know/ba-p/13439695))
-    * SaaS is the delivery of applications over the internet (or “in the cloud”) with no need to install, maintain or host software on site. Users simply access applications via the cloud as a subscription service.
+    * _SaaS_ is the delivery of applications over the internet (or “in the cloud”) with no need to install, maintain or host software on site. Users simply access applications via the cloud as a subscription service.
 
 * Which technologies are they current using, and how are they implementing them?
     
     * With SAP, companies of all sizes can run their entire business in the cloud from a single, integrated platform. And because (they) offer public, private and managed cloud solutions, (their) customers can start anywhere and go everywhere in the cloud, depending on their business need.
 
-    * SAP also recognized the need to complement (their) own applications with best-in-class public cloud SaaS solutions for the most critical lines of business. And they did this through recent key acquisitions that include Ariba, Concur, Fieldglass, and Success Factors.
+    * SAP also recognized the need to complement (their) own applications with best-in-class public cloud _SaaS_ solutions for the most critical lines of business. And they did this through recent key acquisitions that include Ariba, Concur, Fieldglass, and Success Factors.
 
 ## Landscape
 
@@ -139,7 +139,7 @@ The below provides details of the company that were found in [[2]](#2) ([Wikiped
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
 
-    * SAP is the leader in ERP and their strategy of moving their solutions to the cloud and making them compostable allows enterprises of all sizes to benefit from their products. Even the smallest first can subscribe to their Saas solutions and make use of them
+    * SAP is the leader in ERP and their strategy of moving their solutions to the cloud and making them compostable allows enterprises of all sizes to benefit from their products. Even the smallest first can subscribe to their _SaaS_ solutions and make use of them
     * The biggest challenge for a behemoth such as SAP is “moving the dial” when it comes to innovation. They have such a large share of the market that adding tens of thousands of cloud users does not materially change their revenue.
     * Innovation for SAP is therefore not just about gaining market share but about maintaining it. They have to innovate, move to the cloud and componentize their solutions so they can compete with Oracle, Microsoft etc.
     * Providing AI solutions for workflow, generation of reporting and forecasting is required so that they can stay in the game. 
@@ -152,17 +152,17 @@ The below provides details of the company that were found in [[2]](#2) ([Wikiped
 
 <a id="2">[2]</a> [Wikipedia SAP](https://en.wikipedia.org/wiki/SAP)
 
-<a id="3">[3]</a> [SAP, n.d.](https://www.sap.com/about/company.html)
+<a id="3">[3]</a> [SAP, n.d. SAP. Retrieved from SAP:](https://www.sap.com/about/company.html)
 
-<a id="4">[4]</a> [Community, n.d.](https://community.sap.com/t5/technology-blogs-by-sap/sap-saas-applications-what-you-need-to-know/ba-p/13439695)
+<a id="4">[4]</a> [Community, n.d. SAP Saas Applications what you need to know. Retrieved from SAP Community:](https://community.sap.com/t5/technology-blogs-by-sap/sap-saas-applications-what-you-need-to-know/ba-p/13439695)
 
-<a id="5">[5]</a> [Spinnaker, n.d.](https://www.spinnakersupport.com/blog/2023/10/18/10-erp-trends-to-watch-innovations-in-business-management/#:~:text=The%20two%2Dtier%20ERP%20trend%20will%20offer%20value,and%20more%20adaptable%20to%20changing%20business%20needs)
+<a id="5">[5]</a> [Spinnaker, n.d. 10 ERP Trends to Watch: Innovations in Business Management. Retrieved from Spinnaker](https://www.spinnakersupport.com/blog/2023/10/18/10-erp-trends-to-watch-innovations-in-business-management/#:~:text=The%20two%2Dtier%20ERP%20trend%20will%20offer%20value,and%20more%20adaptable%20to%20changing%20business%20needs)
 
-<a id="6">[6]</a> [CIO.com, n.d.](https://www.cio.com/article/304902/10-most-powerful-erp-vendors-today.html)
+<a id="6">[6]</a> [CIO.com, n.d. 10 most powerful ERP vendors today. Retrieved from CIO.com:](https://www.cio.com/article/304902/10-most-powerful-erp-vendors-today.html)
 
-<a id="7">[7]</a> [SAP, SAP Business AI whitepaper, n.d.](https://d.dam.sap.com/a/11HRxdm/SAP%20Business%20AI%20Whitepaper.pdf)
+<a id="7">[7]</a>  [SAP, SAP Business AI whitepaper, n.d. SAP Business AI whitepaper. Retrieved from SAP:](https://d.dam.sap.com/a/11HRxdm/SAP%20Business%20AI%20Whitepaper.pdf)
 
-<a id="8">[8]</a> [Chada, n.d.](https://www.linkedin.com/pulse/why-saps-share-price-increasing-because-ai-mahesh-chada-v6ync/)
+<a id="8">[8]</a> [Chada, n.d.  Why SAP's share price is increasing because of AI. Retrieved from Linked In pulse:](https://www.linkedin.com/pulse/why-saps-share-price-increasing-because-ai-mahesh-chada-v6ync/) 
 
 
 
