@@ -102,18 +102,18 @@ The below provides details of the company that were found in [[2]](#2) ([Wikiped
 * What are the other major companies in this field?
 
     * SAP has a number of major competitors. The top 10 ERP vendors are: [[6]](#6) ([CIO.com, n.d.](https://www.cio.com/article/304902/10-most-powerful-erp-vendors-today.html)):
-
-        1. SAP: Restructuring to target AI
-        2. Microsoft: Powerful integration of genAI features
-        3. Oracle: Two-headed ERP business (Oracle Fusion cloud, Oracle Netsuite)
-        4. Infor: Industry-specific solution
-        5. Workday: Managing human capital
-        6. Epicor Software: Focusing on ‘cognitive ERP’
-        7. IFS: Manufacturing innovation
-        8. Sage: Accounting and finance for SMBs
-        9. Acumatica: A modular approach to cloud ERP
-        10. QAD: Manufacturing and supply chain innovation
-
+    
+        * SAP: Restructuring to target AI
+        * Microsoft: Powerful integration of genAI features
+        * Oracle: Two-headed ERP business (Oracle Fusion cloud, Oracle Netsuite)
+        * Infor: Industry-specific solution
+        * Workday: Managing human capital
+        * Epicor Software: Focusing on ‘cognitive ERP’
+        * IFS: Manufacturing innovation
+        * Sage: Accounting and finance for SMBs
+        * Acumatica: A modular approach to cloud ERP
+        * QAD: Manufacturing and supply chain innovation
+    
 ## Results
 
 * What have been the business impact of this company so far?
