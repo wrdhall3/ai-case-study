@@ -1,6 +1,6 @@
 # Module 1 Challenge: AI Case Study: SAP SE
 
-SAP SE is a German multinational software company based in Walldorf, Baden-Württemberg, Germany. It develops enterprise software to manage business operation and customer relations. The company is the world's leading enterprise resource planning software vendor. [[2]](#2) ([Wikipedia SAP](https://en.wikipedia.org/wiki/SAP))
+SAP SE is a German multinational software company based in Walldorf, Baden-Württemberg, Germany. It develops enterprise software to manage business operation and customer relations. The company is the world's leading enterprise resource planning software vendor [[2]](#2) ([Wikipedia SAP](https://en.wikipedia.org/wiki/SAP)).
 Founded in 1972, SAP is a large incumbent technology company that is doing something interesting with new, emerging AI technology as a way of increasing revenues and gaining market share.
 
 According to Ted Rohm (Senior ERP Analyst) [[1]](#1) ([How AI Is Transforming Enterprise Resource Planning](https://www3.technologyevaluation.com/research/article/how-ai-is-transforming-erp.html)):
@@ -126,7 +126,9 @@ The below provides details of the company that were found in [[2]](#2) ([Wikiped
 * What are some of the core metrics companies in this field use to measure success? How is your company performing based on these metrics?   
  
     * They key metrics for a large listed company such as SAP are revenues, EBITDA (pre-tax earnings) and the impact that these have on its share price.
-    * SAP’s investments in AI are translating into strong financial performance [[8]](#8) ([Chada, n.d.](https://www.linkedin.com/pulse/why-saps-share-price-increasing-because-ai-mahesh-chada-v6ync/)). The efficiency gains and enhanced capabilities provided by AI-driven solutions are leading to increased adoption rates and higher sales. As a result, SAP is reporting robust revenue growth and profitability, which are key indicators of financial health that investors closely monitor. This positive financial performance drives up the share price. 
+    * SAP’s investments in AI are translating into strong financial performance [[8]](#8) ([Chada, n.d.](https://www.linkedin.com/pulse/why-saps-share-price-increasing-because-ai-mahesh-chada-v6ync/)): 
+    
+    > "The efficiency gains and enhanced capabilities provided by AI-driven solutions are leading to increased adoption rates and higher sales. As a result, SAP is reporting robust revenue growth and profitability, which are key indicators of financial health that investors closely monitor. This positive financial performance drives up the share price." 
 
 * How is your company performing relative to competitors in the same field?
 
