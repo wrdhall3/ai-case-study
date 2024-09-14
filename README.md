@@ -126,10 +126,7 @@ The below provides details of the company that were found in [[2]](#2) ([Wikiped
 * What are some of the core metrics companies in this field use to measure success? How is your company performing based on these metrics?   
  
     * They key metrics for a large listed company such as SAP are revenues, EBITDA (pre-tax earnings) and the impact that these have on its share price.
-    * SAP’s investments in AI are translating into strong financial performance [[8]](#8) ([Chada, n.d.](https://www.linkedin.com/pulse/why-saps-share-price-increasing-because-ai-mahesh-chada-v6ync/)): 
-
-
-    > "The efficiency gains and enhanced capabilities provided by AI-driven solutions are leading to increased adoption rates and higher sales. As a result, SAP is reporting robust revenue growth and profitability, which are key indicators of financial health that investors closely monitor. This positive financial performance drives up the share price." 
+    * SAP’s investments in AI are translating into strong financial performance [[8]](#8) ([Chada, n.d.](https://www.linkedin.com/pulse/why-saps-share-price-increasing-because-ai-mahesh-chada-v6ync/)). The efficiency gains and enhanced capabilities provided by AI-driven solutions are leading to increased adoption rates and higher sales. As a result, SAP is reporting robust revenue growth and profitability, which are key indicators of financial health that investors closely monitor. This positive financial performance drives up the share price.
 
 * How is your company performing relative to competitors in the same field?
 
