@@ -1,6 +1,6 @@
 # Module 1 Challenge: AI Case Study: SAP SE
 
-SAP SE is a German multinational software company based in Walldorf, Baden-Württemberg, Germany. It develops enterprise software to manage business operation and customer relations. The company is the world's leading enterprise resource planning software vendor. (Wikipedia, n.d.)
+SAP SE is a German multinational software company based in Walldorf, Baden-Württemberg, Germany. It develops enterprise software to manage business operation and customer relations. The company is the world's leading enterprise resource planning software vendor. [[2]](#2) ([Wikipedia SAP](https://en.wikipedia.org/wiki/SAP))
 Founded in 1972, SAP is a large incumbent technology company that is doing something interesting with new, emerging AI technology as a way of increasing revenues and gaining market share.
 
 According to Ted Rohm (Senior ERP Analyst) [[1]](#1) ([How AI Is Transforming Enterprise Resource Planning](https://www3.technologyevaluation.com/research/article/how-ai-is-transforming-erp.html)):
@@ -139,7 +139,7 @@ The below provides details of the company that were found in [[2]](#2) ([Wikiped
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
 
-    * SAP is the leader in ERP and their strategy of moving their solutions to the cloud and making them compostable allows enterprises of all sizes to benefit from their products. Even the smallest first can subscribe to their _SaaS_ solutions and make use of them
+    * SAP is the leader in ERP and their strategy of moving their solutions to the cloud and making them compostable allows enterprises of all sizes to benefit from their products. Even the smallest firms can subscribe to their _SaaS_ solutions and make use of them
     * The biggest challenge for a behemoth such as SAP is “moving the dial” when it comes to innovation. They have such a large share of the market that adding tens of thousands of cloud users does not materially change their revenue.
     * Innovation for SAP is therefore not just about gaining market share but about maintaining it. They have to innovate, move to the cloud and componentize their solutions so they can compete with Oracle, Microsoft etc.
     * Providing AI solutions for workflow, generation of reporting and forecasting is required so that they can stay in the game. 
